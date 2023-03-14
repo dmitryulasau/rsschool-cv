@@ -2,15 +2,19 @@
 
 ## Software Developer
 
-### Contacts:
+### **Contacts:**
 
 - ![Location](https://res.cloudinary.com/dulasau/image/upload/c_scale,w_16/v1678244433/ICONS/location-logo_eixffw.png) **Location:** Brooklyn, NY
+
 - ![Phone](https://res.cloudinary.com/dulasau/image/upload/c_scale,w_16/v1678243392/ICONS/smartphone-call-logo_h6diuo.png) **Phone:** +1 (646) 238-3713
+
 - ![Gmail](https://res.cloudinary.com/dulasau/image/upload/c_scale,w_16/v1678243392/ICONS/gmail-logo_pp6ixx.png) **Email:** dmitrushok@gmail.com
+
 - ![GitHub](https://res.cloudinary.com/dulasau/image/upload/c_scale,w_16/v1678242983/ICONS/github-logo_oqwbkh.png) **GitHub:** [dmitryulasau](https://github.com/dmitryulasau)
+
 - ![LinkedIn](https://res.cloudinary.com/dulasau/image/upload/c_scale,w_16/v1678243124/ICONS/linkedin-logo_x9umaf.png) **LinkedIn:** [Dmitry Ulasau](https://www.linkedin.com/in/dmitry-ulasau/)
 
-### **About Myself:**
+## **About Myself**
 
 I'm a curious and driven person. My background in professional gaming and passion for computers have informed my approach to coding as each of these require , concentration, attention to details and improvement.
 
@@ -18,9 +22,9 @@ My ability to learn new skills quickly makes me an asset to any team.
 
 My second passion is travelling. And I have a dream - to build a teleport. You can travel around the world at any time, instead of buying tickets for plane you will buy a spot at any place (where it allowed). And in a seconds you are on the beach. "Travel is the Only Thing You Buy that Makes You Richer".
 
-### **Technical Skills:**
+## **Technical Skills**
 
-**Technologies**:
+**Technologies:**
 
 - HTML5 and CSS3 (Bootstrap)
 - JavaScript (Express.js, React.js, Vue.js)
@@ -50,7 +54,7 @@ My second passion is travelling. And I have a dream - to build a teleport. You c
 - Linux
 - Windows
 
-### **Code Example:**
+## **Code Example**
 
     def  selection_sort(arr):
     """Selection sort algorithm"""
@@ -64,7 +68,30 @@ My second passion is travelling. And I have a dream - to build a teleport. You c
 
         return arr
 
-### **Experience**
+## **My projects**
+
+[Braingain](https://braingain-ulasau.netlify.app/)
+[Source code](https://github.com/dmitryulasau/BRAINGAIN_reading_list)
+
+Allows users to sign in/ register, edit their profile, delete their profile, browse books (books provided by 3rd party API), add books to the collection, remove books, switch themes). Front-end implementation was achieved by using React.js and MATERIAL UI.
+
+> React application for reading list
+
+[Omnifood](https://omnifood-ulasau.netlify.app/)
+[Source code](https://github.com/dmitryulasau/Omnifood)
+
+Implemented CSS Flexbox Layout Module and CSS Grid with graphic design principles.
+
+> Responsive single-page application of food delivery service.
+
+[Guess my number](https://ulasau-guess-my-number.netlify.app/)
+[Source code](https://github.com/dmitryulasau/Guess-My-Number)
+
+Generated JavaScript interactive games using HTML, CSS, and JavaScript and programmed functionality using DOM manipulation.
+
+> The goal of the game is to guess a number between 1 and 20.
+
+## **Experience**
 
 #### **Software Engineer |** **Coding Temple**
 
@@ -86,14 +113,14 @@ My second passion is travelling. And I have a dream - to build a teleport. You c
 - Cooperated in conducting numerous complex coding reviews, collaborated with engineering teams and client representatives to ensure on-time completion of customer-focused projects.
 - Boosted sales rate by 8% on the company website and increased the number of customers by creating a new website with extended functionality.
 
-### **Education**
+## **Education**
 
 - **Belarusian National Technical University** | Belarus Minsk, 2009
   - BS Business Administration, Customs Business
 - **Udemy** | Remote, 2022
   - Computer Science
 
-### **Languages:**
+## **Languages**
 
 - Belarusian - _native_
 - Russian - _native_
