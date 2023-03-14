@@ -63,3 +63,38 @@ My second passion is travelling. And I have a dream - to build a teleport. You c
         arr[i], arr[min_index] = arr[min_index], arr[i]
 
         return arr
+
+### **Experience**
+
+#### **Software Engineer |** **Coding Temple**
+
+##### New York, NY | Jun 2022 - Sep 2022
+
+- Engineered MERN stack social media application to share and read travel tips.
+- Designed application using Python and Flask and Bootstrap with login/registration capabilities.
+- Manufactured JavaScript application widget application that retrieves JSON data rom public API to display current weather conditions and location.
+- Crafted databases using SQL in PostgreSQL and Entity Relationship Diagrams.
+- Created Ecommerce website and interactive game application using OOP (Python).
+- Employed Axios for API calls with testing performed on Postman.
+- Coded an application that takes and organizes notes with Java.
+
+#### **Software Engineer |** **TebeP**
+
+##### Brooklyn, NY | May 2020 - Apr 2022
+
+- Developed and maintained functionality of the e-commerce site, reinforced program design, coding, and testing.
+- Cooperated in conducting numerous complex coding reviews, collaborated with engineering teams and client representatives to ensure on-time completion of customer-focused projects.
+- Boosted sales rate by 8% on the company website and increased the number of customers by creating a new website with extended functionality.
+
+### **Education**
+
+- **Belarusian National Technical University** | Belarus Minsk, 2009
+  - BS Business Administration, Customs Business
+- **Udemy** | Remote, 2022
+  - Computer Science
+
+### **Languages:**
+
+- Belarusian - _native_
+- Russian - _native_
+- English - _C1_
