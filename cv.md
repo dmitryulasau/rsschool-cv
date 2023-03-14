@@ -17,3 +17,49 @@ I'm a curious and driven person. My background in professional gaming and passio
 My ability to learn new skills quickly makes me an asset to any team.
 
 My second passion is travelling. And I have a dream - to build a teleport. You can travel around the world at any time, instead of buying tickets for plane you will buy a spot at any place (where it allowed). And in a seconds you are on the beach. "Travel is the Only Thing You Buy that Makes You Richer".
+
+### **Technical Skills:**
+
+**Technologies**:
+
+- HTML5 and CSS3 (Bootstrap)
+- JavaScript (Express.js, React.js, Vue.js)
+- Java
+- Python (Django, Flask)
+- NoSQL (MongoDB)
+- RESTful APIs
+- SQL (PostgreSQL, ElephantSQL)
+
+**Tools:**
+
+- GitHub
+- Heroku
+- Netlify
+- Postman
+
+**Techniques:**
+
+- Agile/Scrum
+- OOP
+- Waterfall
+
+**Platforms:**
+
+- AWS
+- Google
+- Linux
+- Windows
+
+### **Code Example:**
+
+    def  selection_sort(arr):
+    """Selection sort algorithm"""
+
+        for i in  range(len(arr) -  1):
+    	    min_index = i
+    	    for j in  range(i +  1,  len(arr)):
+    		    if arr[j] < arr[min_index]:
+    		    min_index = j
+        arr[i], arr[min_index] = arr[min_index], arr[i]
+
+        return arr
