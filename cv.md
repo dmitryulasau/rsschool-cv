@@ -70,21 +70,21 @@ My second passion is travelling. And I have a dream - to build a teleport. You c
 
 ## **My projects**
 
-[Braingain](https://braingain-ulasau.netlify.app/)
-[Source code](https://github.com/dmitryulasau/BRAINGAIN_reading_list)
+[Braingain](https://braingain-ulasau.netlify.app/) -
+[source code](https://github.com/dmitryulasau/BRAINGAIN_reading_list)
 
-Allows users to sign in/ register, edit their profile, delete their profile, browse books (books provided by 3rd party API), add books to the collection, remove books, switch themes). Front-end implementation was achieved by using React.js and MATERIAL UI.
+Allows users to sign in/ register, edit their profile, delete their profile, browse books (books provided by 3rd party API), add books to the collection, remove books, switch themes. Front-end implementation was achieved by using React.js and MATERIAL UI.
 
 > React application for reading list
 
-[Omnifood](https://omnifood-ulasau.netlify.app/)
-[Source code](https://github.com/dmitryulasau/Omnifood)
+[Omnifood](https://omnifood-ulasau.netlify.app/) -
+[source code](https://github.com/dmitryulasau/Omnifood)
 
 Implemented CSS Flexbox Layout Module and CSS Grid with graphic design principles.
 
 > Responsive single-page application of food delivery service.
 
-[Guess my number](https://ulasau-guess-my-number.netlify.app/)
+[Guess my number](https://ulasau-guess-my-number.netlify.app/) -
 [Source code](https://github.com/dmitryulasau/Guess-My-Number)
 
 Generated JavaScript interactive games using HTML, CSS, and JavaScript and programmed functionality using DOM manipulation.
