@@ -115,9 +115,9 @@ Generated JavaScript interactive games using HTML, CSS, and JavaScript and progr
 
 ## **Education**
 
-**Belarusian National Technical University** | Belarus Minsk, 2009 | BS Business Administration, Customs Business
+**Belarusian National Technical University** | Belarus Minsk, 2009 - BS Business Administration, Customs Business
 
-**Udemy** | Remote, 2022 | Computer Science
+**Udemy** | Remote, 2022 - Computer Science
 
 ## **Languages**
 
