@@ -85,7 +85,7 @@ Implemented CSS Flexbox Layout Module and CSS Grid with graphic design principle
 > Responsive single-page application of food delivery service.
 
 [Guess my number](https://ulasau-guess-my-number.netlify.app/) -
-[Source code](https://github.com/dmitryulasau/Guess-My-Number)
+[source code](https://github.com/dmitryulasau/Guess-My-Number)
 
 Generated JavaScript interactive games using HTML, CSS, and JavaScript and programmed functionality using DOM manipulation.
 
@@ -115,10 +115,13 @@ Generated JavaScript interactive games using HTML, CSS, and JavaScript and progr
 
 ## **Education**
 
-- **Belarusian National Technical University** | Belarus Minsk, 2009
-  - BS Business Administration, Customs Business
-- **Udemy** | Remote, 2022
-  - Computer Science
+**Belarusian National Technical University** | Belarus Minsk, 2009
+
+- BS Business Administration, Customs Business
+
+  **Udemy** | Remote, 2022
+
+- Computer Science
 
 ## **Languages**
 
